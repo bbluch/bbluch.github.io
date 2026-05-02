@@ -87,6 +87,15 @@ a:hover { text-decoration: underline; }
 
 .hero-content { max-width: 640px; }
 
+.hero-photo {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 3px solid var(--accent2);
+  margin-bottom: 1.5rem;
+}
+
 .hero-greeting {
   color: var(--accent);
   font-size: 1.1rem;
