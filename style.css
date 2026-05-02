@@ -2,14 +2,14 @@
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
 :root {
-  --bg:        #0f1117;
-  --bg-alt:    #161b27;
-  --card-bg:   #1e2535;
-  --accent:    #5b8dee;
-  --accent2:   #7b6cf6;
-  --text:      #e2e8f0;
-  --muted:     #8892a4;
-  --border:    #2a3347;
+  --bg:        #100a0b;
+  --bg-alt:    #180d0f;
+  --card-bg:   #221013;
+  --accent:    #E5751F;
+  --accent2:   #861F41;
+  --text:      #f0e8e8;
+  --muted:     #a89090;
+  --border:    #3d1f24;
   --radius:    10px;
   --nav-h:     64px;
 }
@@ -32,7 +32,7 @@ a:hover { text-decoration: underline; }
   position: fixed;
   top: 0; left: 0; right: 0;
   height: var(--nav-h);
-  background: rgba(15, 17, 23, 0.85);
+  background: rgba(16, 10, 11, 0.88);
   backdrop-filter: blur(10px);
   border-bottom: 1px solid var(--border);
   z-index: 100;
@@ -82,7 +82,7 @@ a:hover { text-decoration: underline; }
   justify-content: center;
   text-align: center;
   padding: var(--nav-h) 2rem 0;
-  background: radial-gradient(ellipse at 50% 40%, #1a2240 0%, var(--bg) 70%);
+  background: radial-gradient(ellipse at 50% 40%, #3d1020 0%, var(--bg) 70%);
 }
 
 .hero-content { max-width: 640px; }
