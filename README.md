@@ -15,7 +15,7 @@ Computer Science student at Virginia Tech (Class of 2027) passionate about build
 |---|---|---|
 | [Movie Rater](https://github.com/bbluch/P1BlucherKane) | Movie rating service with search, user ratings, and recommendations via a sparse matrix database | Java, Git |
 | [Air Traffic Control System](https://github.com/bbluch/P4ATC) | Simulated air traffic control system managing flight scheduling and conflict resolution | Java, Git |
-| Smart Calendar | AI-driven calendar with natural language prompting; presented at VTHacks 2024 | Python, Perplexity AI, HTML |
+| Smart Calendar | AI-driven calendar with natural language prompting; presented at VTHax 2024 | Python, Perplexity AI, HTML |
 | Spotify Playlist Assistant | Playlist curator with genre-based song analysis and an interactive GUI | Java |
 
 ## About Me
