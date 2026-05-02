@@ -48,13 +48,12 @@ a:hover { text-decoration: underline; }
   justify-content: space-between;
 }
 
-.nav-logo {
-  font-size: 1.25rem;
-  font-weight: 700;
-  background: linear-gradient(135deg, var(--accent), var(--accent2));
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
+.nav-photo {
+  width: 38px;
+  height: 38px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 2px solid var(--accent2);
 }
 
 .nav-links {
@@ -87,13 +86,14 @@ a:hover { text-decoration: underline; }
 
 .hero-content { max-width: 640px; }
 
-.hero-photo {
-  width: 150px;
-  height: 150px;
+.about-photo {
+  width: 120px;
+  height: 120px;
   border-radius: 50%;
   object-fit: cover;
   border: 3px solid var(--accent2);
-  margin-bottom: 1.5rem;
+  display: block;
+  margin: 1.5rem auto 0;
 }
 
 .hero-greeting {
