@@ -3,7 +3,7 @@
 [![Live Site](https://img.shields.io/badge/Live%20Site-bbluch.github.io-E5751F?style=flat-square)](https://bbluch.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-benjamin--blucher-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/benjamin-blucher)
 
-Computer Science student at Virginia Tech (Class of 2027) passionate about building software that solves real problems. This repo hosts my personal portfolio website.
+Computer Science student at Virginia Tech (Class of 2027) passionate about building software that solves real problems. This repo hosts my personal portfolio website. I hope to continue to build interesting and relevant projects and add them here as I complete them. Feel free to reach out to me at blucherbenjamin@gmail.com!
 
 ## Live Site
 
@@ -23,7 +23,3 @@ Computer Science student at Virginia Tech (Class of 2027) passionate about build
 - B.S. Computer Science, Virginia Tech — GPA 3.76, Dean's List (Fall 2023, Spring 2024, Spring 2025)
 - Former Web Developer at InventHelp — built 10+ client websites per week
 - Skills: Java, Python, C/C++, JavaScript, HTML/CSS, MATLAB, Git, Docker, Google Cloud Platform
-
-## Contact
-
-blucherbenjamin@gmail.com
