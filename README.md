@@ -21,5 +21,5 @@ Computer Science student at Virginia Tech (Class of 2027) passionate about build
 ## About Me
 
 - B.S. Computer Science, Virginia Tech — GPA 3.76, Dean's List (Fall 2023, Spring 2024, Spring 2025)
-- Former Web Developer at InventHelp — built 10+ client websites per week
+- Former Web Developer at InventHelp
 - Skills: Java, Python, C/C++, JavaScript, HTML/CSS, MATLAB, Git, Docker, Google Cloud Platform
